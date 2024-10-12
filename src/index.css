@@ -1,0 +1,14 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+	background-color: #212529;
+	overflow-y: hidden;
+}
+#root {
+	margin: 0;
+	padding: 23px;
+	max-width: 100%;
+}
